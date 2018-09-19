@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1322815725
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1_Carrot
+    uniqueID: 2519903293
+    locked: 0
+  - name: 1_Player
+    uniqueID: 347412843
+    locked: 0
+  - name: 1_Squirrel
+    uniqueID: 3739796099
+    locked: 0
+  - name: 1_Carrot_pulled
+    uniqueID: 1083751201
+    locked: 0
+  - name: 1_Fence
+    uniqueID: 319092783
+    locked: 0
+  - name: 2_Carrot
+    uniqueID: 520419129
+    locked: 0
+  - name: 2_Player
+    uniqueID: 1489021701
+    locked: 0
+  - name: 2_Squirrel
+    uniqueID: 1894112193
+    locked: 0
+  - name: 2_Carrot_pulled
+    uniqueID: 1751248227
+    locked: 0
+  - name: 2_Fence
+    uniqueID: 2416126265
+    locked: 0
+  - name: 3_Carrot
+    uniqueID: 2454367473
+    locked: 0
+  - name: 3_Player
+    uniqueID: 141230373
+    locked: 0
+  - name: 3_Squirrel
+    uniqueID: 1334399503
+    locked: 0
+  - name: 3_Carrot_pulled
+    uniqueID: 3641308953
+    locked: 0
+  - name: 3_Fence
+    uniqueID: 2091416303
+    locked: 0
+  - name: 4_Carrot
+    uniqueID: 2673311463
+    locked: 0
+  - name: 4_Player
+    uniqueID: 2253078761
+    locked: 0
+  - name: 4_Squirrel
+    uniqueID: 3888915053
+    locked: 0
+  - name: 4_Carrot_pulled
+    uniqueID: 33113663
+    locked: 0
+  - name: 4_Fence
+    uniqueID: 3299438277
+    locked: 0
+  - name: 5_Carrot
+    uniqueID: 1606220239
+    locked: 0
+  - name: 5_Player
+    uniqueID: 1910451155
+    locked: 0
+  - name: 5_Squirrel
+    uniqueID: 1867648637
+    locked: 0
+  - name: 5_Carrot_pulled
+    uniqueID: 734027247
+    locked: 0
+  - name: 5_Fence
+    uniqueID: 3263167611
+    locked: 0
+  - name: 6_Carrot
+    uniqueID: 1043286147
+    locked: 0
+  - name: 6_Player
+    uniqueID: 3457870893
+    locked: 0
+  - name: 6_Squirrel
+    uniqueID: 3925316009
+    locked: 0
+  - name: 6_Carrot_pulled
+    uniqueID: 1032122881
+    locked: 0
+  - name: 6_Fence
+    uniqueID: 4129953007
+    locked: 0
+  - name: Input
+    uniqueID: 3090323615
+    locked: 0
