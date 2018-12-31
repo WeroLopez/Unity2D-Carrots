@@ -1,5 +1,5 @@
 # Unity2D-Carrots
-Simple Unity2D's game of pull out carrots of the ground in a farm.
+Unity2D's game of pull out carrots of the ground in a farm.
 
 A controller is needed.
 You move with left stick, when touch a carrot a random input button with appear and you need to press it repeatdly, if you fail, the carrot comesback to the original position.
