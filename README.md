@@ -1,4 +1,4 @@
-# Carrots_Unity2D
+# Unity2D-Carrots
 Simple Unity2D's game of pull out carrots of the ground in a farm.
 
 A controller is needed.
